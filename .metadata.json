@@ -1,0 +1,22 @@
+[
+  {
+    "package": "adass",
+    "oncran": true
+  },
+  {
+    "package": "funcharts",
+    "oncran": true
+  },
+  {
+    "package": "rofanova",
+    "oncran": true
+  },
+  {
+    "package": "sasfunclust",
+    "oncran": true
+  },
+  {
+    "package": "slasso",
+    "oncran": true
+  }
+]
