@@ -1,9 +1,5 @@
 [
   {
-    "package": "adass",
-    "oncran": true
-  },
-  {
     "package": "funcharts",
     "oncran": true
   },
