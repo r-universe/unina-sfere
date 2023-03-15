@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
-    "package": "slasso",
-    "oncran": true
-  },
-  {
     "package": "rofanova",
     "oncran": true
   },
   {
     "package": "sasfunclust",
+    "oncran": true
+  },
+  {
+    "package": "slasso",
     "oncran": true
   }
 ]

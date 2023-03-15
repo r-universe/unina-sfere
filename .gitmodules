@@ -8,11 +8,6 @@
 	url = https://github.com/unina-sfere/funcharts
 	shallow = true
 	registered = true
-[submodule "slasso"]
-	path = slasso
-	url = https://github.com/unina-sfere/slasso
-	shallow = true
-	registered = true
 [submodule "rofanova"]
 	path = rofanova
 	url = https://github.com/unina-sfere/rofanova
@@ -21,5 +16,10 @@
 [submodule "sasfunclust"]
 	path = sasfunclust
 	url = https://github.com/unina-sfere/sasfunclust
+	shallow = true
+	registered = true
+[submodule "slasso"]
+	path = slasso
+	url = https://github.com/unina-sfere/slasso
 	shallow = true
 	registered = true
