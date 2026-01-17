@@ -8,9 +8,6 @@
 [submodule "funcharts"]
 	path = funcharts
 	url = https://github.com/unina-sfere/funcharts
-[submodule "rofanova"]
-	path = rofanova
-	url = https://github.com/unina-sfere/rofanova
 [submodule "sasfunclust"]
 	path = sasfunclust
 	url = https://github.com/unina-sfere/sasfunclust
