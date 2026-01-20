@@ -11,6 +11,3 @@
 [submodule "sasfunclust"]
 	path = sasfunclust
 	url = https://github.com/unina-sfere/sasfunclust
-[submodule "slasso"]
-	path = slasso
-	url = https://github.com/unina-sfere/slasso
